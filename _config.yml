@@ -2,6 +2,7 @@ name: cocinajusta
 favicon: null
 layout_spectrum: 0.99038
 typography_spectrum: 0.7410538450349122
+title: Cocina Justa
 cta:
   domain: null
   bucket: null
