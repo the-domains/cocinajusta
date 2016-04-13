@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[cocinajusta]]></title>
-        <description><![CDATA[cocinajusta]]></description>
+        <title><![CDATA[Cocina Justa]]></title>
+        <description><![CDATA[Cocina Justa]]></description>
         <link>https://thegrid.ai/cocinajusta/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 16:13:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2016 17:25:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cocinajusta/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7e2c79a7-267a-4f9b-b850-446a523c27e6.jpg">]]></description>
+            <link>https://thegrid.ai/cocinajusta/264bc089-74ab-4d3f-9e88-302d6eef8c2e/index.html</link>
+            <guid isPermaLink="false">264bc089-74ab-4d3f-9e88-302d6eef8c2e</guid>
+            <pubDate>Wed, 13 Apr 2016 17:24:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Somos un espacio cálido y agradable, caracterizado por una cocina honesta y sencilla, donde lo que brillan son los ingredientes y el respeto por los mismos. Reintentamos los sanduches llevándolos a un nuevo nivel, usamos ingredientes locales y de pequeños productores, elaboramos nuestros panes y </p>]]></description>
