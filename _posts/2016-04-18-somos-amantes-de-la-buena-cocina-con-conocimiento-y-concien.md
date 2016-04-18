@@ -17,18 +17,18 @@ description: >-
   de productos locales preparados de forma artesanal. Buscamos exaltar la
 
   grandeza y calidad de los insumos y materias primas de nuestro país
-datePublished: '2016-04-18T01:53:20.629Z'
-dateModified: '2016-04-18T01:53:15.003Z'
-title: ''
+datePublished: '2016-04-18T01:57:29.380Z'
+dateModified: '2016-04-18T01:56:12.074Z'
+title: Espresso Sanducheria
 author: []
+sourcePath: _posts/2016-04-18-somos-amantes-de-la-buena-cocina-con-conocimiento-y-concien.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-18-somos-amantes-de-la-buena-cocina-con-conocimiento-y-concien.md
-published: true
 url: somos-amantes-de-la-buena-cocina-con-conocimiento-y-concien/index.html
 _type: Article
 
@@ -44,16 +44,14 @@ __
 
 __
 
-_COMIDA JUSTA: Alimentarse, es mas que una función esencial del ser
-humano, por tal motivo debemos darle al cuerpo lo que necesita, en las
-cantidades adecuadas y en de la forma correcta. Comer sanamente, mas que
-una opción debería ser un deber de nosotros para con nosotros. Contemos
-juntos menos calorías y mas químicos._
+COMIDA JUSTA: Alimentarse, es mas que una función esencial del ser humano, por tal motivo debemos darle al cuerpo lo que necesita, en las cantidades adecuadas y en de la forma correcta. Comer sanamente, mas que una opción debería ser un deber de nosotros para con nosotros. Contemos juntos menos calorías y mas químicos.
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/05cf4746cb0dce1d35cd3422d828ea7347c299b9.jpg)
 
 ____PRECIO JUSTO: Entendemos el intercambio comercial como un acuerdo de
 mutuo beneficio, por tal motivo, buscamos llegar directamente al productor,
 pagando el precio adecuado, cortando la intermediación y generando un
 vinculo mas halla de un simple negocio. ____
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4cb33b11-9818-4694-a0ae-70a8d3edcd47.jpg)
 
 ____TIEMPO JUSTO: Las mejores cosas de la vida requieren tiempo. Para
 nosotros, es vital dar el espacio temporal requerido a cada uno de los
@@ -61,6 +59,8 @@ elementos involucrados en el desarrollo de la cotidianidad del establecimiento.
 En esencia, buscamos dar un adecuado tiempo de elaboración a nuestras
 preparaciones, desde las cocciones, hasta el proceso de maduración adecuado
 para cada ingrediente. ____
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ade7092-04ca-46c0-b6f7-0ce7601a6289.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/de35e44c-f607-447a-960e-695870ee72ff.jpg)
 
 ____COCINA JUSTA: Para nosotros, los ingredientes son los protagonistas
 principales de una gran cocina, por ello nuestro pilar fundamental es tratarlos
@@ -82,8 +82,8 @@ económico aquellos productores que mediante su labor mantienen economías
 locales y la diversidad biológica y cultural del país. Adicional a esto, comprar
 productos locales disminuye la carga de emisiones contaminantes que se
 generan por el transporte de estos productos. ____
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd6db863-7dd9-443b-9bf5-ee0711e81696.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4cb33b11-9818-4694-a0ae-70a8d3edcd47.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aab2c94e-36b8-4776-b2f3-b5498d69912a.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ade7092-04ca-46c0-b6f7-0ce7601a6289.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/de35e44c-f607-447a-960e-695870ee72ff.jpg)
+
+  
+  
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e7f96e63-6793-4b88-836e-9cd1817e9016.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b39bbc80-5b5f-49e5-9a38-9fef28b5a1b9.jpg)
