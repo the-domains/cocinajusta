@@ -3,7 +3,7 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: >-
   somos amantes de la buena cocina, con conocimiento y conciencia de la
@@ -17,8 +17,8 @@ description: >-
   de productos locales preparados de forma artesanal. Buscamos exaltar la
 
   grandeza y calidad de los insumos y materias primas de nuestro país
-datePublished: '2016-04-18T02:14:35.955Z'
-dateModified: '2016-04-18T01:58:55.238Z'
+datePublished: '2016-04-18T02:30:20.795Z'
+dateModified: '2016-04-18T02:30:16.775Z'
 title: Espresso Sanducheria
 author: []
 sourcePath: _posts/2016-04-18-somos-amantes-de-la-buena-cocina-con-conocimiento-y-concien.md
