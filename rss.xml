@@ -4,7 +4,7 @@
         <description><![CDATA[Cocina Justa]]></description>
         <link>https://thegrid.ai/cocinajusta/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Apr 2016 02:14:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2016 02:15:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cocinajusta/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Espresso Sanducheria ]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/cocinajusta/espresso-sanducheria/index.html</link>
             <guid isPermaLink="false">e7a5efcc-3058-4df3-ad01-cdc2e393bd4d</guid>
             <pubDate>Mon, 18 Apr 2016 01:41:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[El origen de nuestros ingredientes]]></title>
+            <description><![CDATA[<article><h1>El origen de nuestros ingredientes</h1><p>"La comida de verdad no tiene ingredientes, la comida verdadera son los ingredientes"</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/87b5665a3dafc2d2906a26e970d5d857fda182ba.jpg"></article>]]></description>
+            <link>https://thegrid.ai/cocinajusta/264bc089-74ab-4d3f-9e88-302d6eef8c2e/index.html</link>
+            <guid isPermaLink="false">264bc089-74ab-4d3f-9e88-302d6eef8c2e</guid>
+            <pubDate>Mon, 18 Apr 2016 02:15:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Espresso Sanducheria]]></title>
@@ -45,13 +52,6 @@ grandeza y calidad de los insumos y materias primas de nuestro país</p></articl
             <link>https://thegrid.ai/cocinajusta/compra-local/index.html</link>
             <guid isPermaLink="false">4756bfce-0113-455e-886a-1676c80ab418</guid>
             <pubDate>Wed, 13 Apr 2016 20:08:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[El origen de nuestros ingredientes]]></title>
-            <description><![CDATA[<article><h1>El origen de nuestros ingredientes</h1><p>"La comida de verdad no tiene ingredientes, la comida verdadera son los ingredientes"</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/87b5665a3dafc2d2906a26e970d5d857fda182ba.jpg"></article>]]></description>
-            <link>https://thegrid.ai/cocinajusta/264bc089-74ab-4d3f-9e88-302d6eef8c2e/index.html</link>
-            <guid isPermaLink="false">264bc089-74ab-4d3f-9e88-302d6eef8c2e</guid>
-            <pubDate>Wed, 13 Apr 2016 20:06:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
