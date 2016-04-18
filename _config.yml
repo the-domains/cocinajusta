@@ -1,29 +1,41 @@
-name: cocinajusta
-favicon: null
-layout_spectrum: 0.50534
-typography_spectrum: 0.75451
 title: Cocina Justa
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-76341476-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0
+  brandStrength: 0.4892473
+  lightness: 1
   brandColors:
     - '#ffffff'
     - '#442a13'
     - '#6c8136'
     - '#cc6a29'
     - '#5dc7d2'
-  brandStrength: 0
-  lightness: 0.8125
-  saturation: 0.5
-  rhythmicContrast: 0.25
-purpose: []
+  rhythmicContrast: 0
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: UA-76341476-1
+  facebook: null
+favicon: null
+name: cocinajusta
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.75451
+layout_spectrum: 0.50534
