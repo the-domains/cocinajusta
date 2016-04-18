@@ -6,15 +6,15 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0
-  brandStrength: 0.4892473
+  brandStrength: 0
   lightness: 1
   brandColors:
     - '#ffffff'
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: UA-76341476-1
   facebook: null
-favicon: null
 name: cocinajusta
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.75451
-layout_spectrum: 0.50534
+layout_spectrum: 0.4462366
