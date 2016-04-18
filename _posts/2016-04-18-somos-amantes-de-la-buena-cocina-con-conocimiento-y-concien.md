@@ -17,8 +17,8 @@ description: >-
   de productos locales preparados de forma artesanal. Buscamos exaltar la
 
   grandeza y calidad de los insumos y materias primas de nuestro país
-datePublished: '2016-04-18T01:57:29.380Z'
-dateModified: '2016-04-18T01:56:12.074Z'
+datePublished: '2016-04-18T02:14:35.955Z'
+dateModified: '2016-04-18T01:58:55.238Z'
 title: Espresso Sanducheria
 author: []
 sourcePath: _posts/2016-04-18-somos-amantes-de-la-buena-cocina-con-conocimiento-y-concien.md
@@ -82,8 +82,5 @@ económico aquellos productores que mediante su labor mantienen economías
 locales y la diversidad biológica y cultural del país. Adicional a esto, comprar
 productos locales disminuye la carga de emisiones contaminantes que se
 generan por el transporte de estos productos. ____
-
-  
-  
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e7f96e63-6793-4b88-836e-9cd1817e9016.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b39bbc80-5b5f-49e5-9a38-9fef28b5a1b9.jpg)
