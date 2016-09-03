@@ -1,5 +1,30 @@
-title: Cocina Justa
-purpose: []
+typography_spectrum: 0.75451
+color:
+  saturation: 1
+  brandStrength: 0
+  rhythmicContrast: 0
+  brandColors:
+    - '#ffffff'
+    - '#442a13'
+    - '#6c8136'
+    - '#cc6a29'
+    - '#5dc7d2'
+  lightness: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  twitter: null
+  google: UA-76341476-1
+  facebook: null
+name: cocinajusta
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
 collections:
   - index:
       path: /
@@ -12,30 +37,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 1
-  brandStrength: 0
-  rhythmicContrast: 0
-  brandColors:
-    - '#ffffff'
-    - '#442a13'
-    - '#6c8136'
-    - '#cc6a29'
-    - '#5dc7d2'
-  lightness: 1
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: UA-76341476-1
-  facebook: null
-name: cocinajusta
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.75451
-layout_spectrum: 1
+title: Cocina Justa
+description: '"Alimentacion conciente a tu manera"'
+purpose: []
