@@ -19,7 +19,7 @@ analytics:
   twitter: null
   google: UA-76341476-1
   facebook: null
-name: cocinajusta
+name: cocina Justa
 cta:
   bucket: null
   version: null
@@ -38,5 +38,5 @@ collections:
       format: rss
       number: 10
 title: Cocina Justa
-description: '"Alimentacion conciente a tu manera"'
+description: '"Alimentación conciente a tu manera"'
 purpose: []
